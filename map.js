@@ -12,15 +12,6 @@ L.tileLayer(
         zoomOffset: -1
     }).addTo(map);
 
-let geojsonMarkerOptions = {
-    radius: 4,
-    fillColor: "#e41a1c",
-    color: "#fff",
-    weight: 1,
-    opacity: 1,
-    fillOpacity: 1
-};
-
 function popupContent(feature, layer) {
     layer.bindPopup("<b>" + feature.properties.placename + ", " +
         feature.properties.country + "</b> <br>" +
@@ -105,20 +96,15 @@ function loadTripData(url) {
         };
 
         L.geoJSON(pointsGeojson, {
-            pointToLayer: function(feature, latlng) {
-                return L.circleMarker(latlng, geojsonMarkerOptions);
-            }
-        }).addTo(map);
-
-        // HACK: Make it easier to tap on markers on small devices by adding
-        // larger, invisible circleMarkers
-        L.geoJSON(pointsGeojson, {
             onEachFeature: popupContent,
             pointToLayer: function(feature, latlng) {
                 return L.circleMarker(latlng, {
-                    radius: 10,
-                    fillOpacity: 0,
-                    opacity: 0
+                    radius: 8,
+                    fillColor: "#e41a1c",
+                    color: "#fff",
+                    weight: 1,
+                    opacity: 1,
+                    fillOpacity: 1
                 });
             }
         }).addTo(map);
