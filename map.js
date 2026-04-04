@@ -22,7 +22,7 @@ function connectPoints(data) {
     let line = [];
     let previousLatitude;
     for (let i = 0; i < data.length; i += 1) {
-        d = data[i]
+        let d = data[i];
         if (d.latitude !== previousLatitude) {
             line.push([+d.latitude, +d.longitude]);
             previousLatitude = d.latitude;
@@ -59,18 +59,20 @@ function loadTripData(url) {
 
         L.polyline(connectPoints(data), polylineOptions).addTo(map);
 
-        let pointsJson = d3.nest()
-            .key(d => d.latitude) // assuming location latitude is unique
-            .rollup(v => ({
-                placename: v[0].placename,
-                country: v[0].country,
-                nights: v.length,
-                latitude: +v[0].latitude,
-                longitude: +v[0].longitude,
-                dates: v.map(e => e.date)
-            }))
-            .entries(data)
-            .map(e => e.value);
+        let pointsJson = Array.from(
+            d3.rollup(
+                data,
+                v => ({
+                    placename: v[0].placename,
+                    country: v[0].country,
+                    nights: v.length,
+                    latitude: +v[0].latitude,
+                    longitude: +v[0].longitude,
+                    dates: v.map(e => e.date)
+                }),
+                d => d.latitude // assuming location latitude is unique
+            ).values()
+        );
 
         let pointsGeojsonFeatures = [];
         pointsJson.forEach(function(point) {

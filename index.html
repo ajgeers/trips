@@ -2,15 +2,14 @@
 <html>
     <head>
         <meta charset='utf-8'>
-        <meta http-equiv='X-UA-Compatible' content='IE=11'>
         <meta name='viewport' content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no'>
 
         <title>Trips</title>
         <link rel='icon' type='image/png' href='favicon.png'>
 
-        <link rel='stylesheet' href='https://unpkg.com/leaflet@1.5.1/dist/leaflet.css' integrity='sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ==' crossorigin=''>
-        <script src='https://unpkg.com/leaflet@1.5.1/dist/leaflet.js' integrity='sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og==' crossorigin=''></script>
-        <script src='https://unpkg.com/d3@5.12.0/dist/d3.min.js' integrity='sha384-BKcn2VyUQE+U5r2TwZjM97PrlY7NaA3vIzZMPFw4q9PSQi45aUU5odQEygR9p3t5' crossorigin=''></script>
+        <link rel='stylesheet' href='https://unpkg.com/leaflet@1.9.4/dist/leaflet.css' integrity='sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=' crossorigin=''>
+        <script src='https://unpkg.com/leaflet@1.9.4/dist/leaflet.js' integrity='sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=' crossorigin=''></script>
+        <script src='https://unpkg.com/d3@7.9.0/dist/d3.min.js' crossorigin=''></script>
 
         <style>
             body {
@@ -27,8 +26,8 @@
     <body>
 
         <div style="position: absolute; top: 10px; right: 10px; z-index: 1000;">
-            <select id="trip-selector" style="padding: 5px; border-radius: 5px; border: 1px solid #ccc;" onchange="loadTripData('./data/' + this.value)">
-                <option value="2018_japan.csv" selected>Japan 2018</option>
+            <select id="trip-selector" style="padding: 5px; border-radius: 5px; border: 1px solid #ccc;">
+                <option value="2018_japan.csv">Japan 2018</option>
                 <option value="2018_south_america.csv" selected>South America 2018</option>
                 <option value="2019_japan.csv">Japan 2019</option>
                 <option value="2024_japan.csv">Japan 2024</option>
