@@ -18,17 +18,22 @@ function popupContent(feature, layer) {
         feature.properties.dates.join('<br>'))
 };
 
-function connectPoints(data) {
-    let line = [];
+function createCurvedLine(data) {
+    let points = [];
     let previousLatitude;
     for (let i = 0; i < data.length; i += 1) {
         let d = data[i];
         if (d.latitude !== previousLatitude) {
-            line.push([+d.latitude, +d.longitude]);
+            points.push([+d.longitude, +d.latitude]); // GeoJSON uses [lng, lat]
             previousLatitude = d.latitude;
         }
     }
-    return line;
+
+    let lineString = turf.lineString(points);
+    let curved = turf.bezierSpline(lineString, {resolution: 100000, sharpness: 0.85});
+
+    // Convert back to Leaflet format [lat, lng]
+    return curved.geometry.coordinates.map(coord => [coord[1], coord[0]]);
 }
 
 let polylineOptions = {
@@ -57,7 +62,7 @@ function loadTripData(url) {
             }
         });
 
-        L.polyline(connectPoints(data), polylineOptions).addTo(map);
+        L.polyline(createCurvedLine(data), polylineOptions).addTo(map);
 
         let pointsJson = Array.from(
             d3.rollup(
