@@ -1,44 +1,44 @@
 date,placename,country,accommodation,latitude,longitude
-04-06-2019,Fukuoka,Japan,Yagura Hostel,33.5917032,130.3792809
-05-06-2019,Fukuoka,Japan,Yagura Hostel,33.5917032,130.3792809
-06-06-2019,Fukuoka,Japan,Yagura Hostel,33.5917032,130.3792809
-07-06-2019,Nagasaki,Japan,Casa Blanca Guesthouse,32.7421682,129.8767380
-08-06-2019,Nagasaki,Japan,Casa Blanca Guesthouse,32.7421682,129.8767380
-09-06-2019,Yufuin,Japan,Yufusan Ryokan,33.2576410,131.3743370
-10-06-2019,Miyoshi,Japan,4S Stay AwaIkeda,34.0278853,133.8054886
-11-06-2019,Miyoshi,Japan,4S Stay AwaIkeda,34.0278853,133.8054886
-12-06-2019,Imabari,Japan,Cyclo No Ie,34.0639950,132.9948720
-13-06-2019,Omishima,Japan,Minshuku Nagisa,34.2640610,133.0364740
-14-06-2019,Onomichi,Japan,Guesthouse Anago-no-Nedoko,34.4091561,133.2021360
-15-06-2019,Kurashiki,Japan,Guesthouse Life Field,34.6048143,133.7616084
-16-06-2019,Kurashiki,Japan,Guesthouse Life Field,34.6048143,133.7616084
-17-06-2019,Kurashiki,Japan,Guesthouse Life Field,34.6048143,133.7616084
-18-06-2019,Kurashiki,Japan,Guesthouse Life Field,34.6048143,133.7616084
-19-06-2019,Takayama,Japan,Cup of Tea,36.138101,137.257032
-20-06-2019,Takayama,Japan,Cup of Tea,36.138101,137.257032
-21-06-2019,Takayama,Japan,Cup of Tea,36.138101,137.257032
-22-06-2019,Morioka,Japan,Unizo Inn Express Morioka,39.7000137,141.1326219
-23-06-2019,Morioka,Japan,Unizo Inn Express Morioka,39.7000137,141.1326219
-24-06-2019,Morioka,Japan,Unizo Inn Express Morioka,39.7000137,141.1326219
-25-06-2019,Miyako,Japan,Guesthouse Minato,39.641775,141.948937
-26-06-2019,Miyako,Japan,Guesthouse Minato,39.641775,141.948937
-27-06-2019,Miyako,Japan,Guesthouse Minato,39.641775,141.948937
-28-06-2019,Tono,Japan,Tono Youth Hostel,39.3583520,141.5617350
-29-06-2019,Tono,Japan,Tono Youth Hostel,39.3583520,141.5617350
-30-06-2019,Tsuruoka,Japan,Super Hotel Yamagata Tsuruoka,38.7414687,139.8315616
-01-07-2019,Tsuruoka,Japan,Super Hotel Yamagata Tsuruoka,38.7414687,139.8315616
-02-07-2019,Tsuruoka,Japan,Super Hotel Yamagata Tsuruoka,38.7414687,139.8315616
-03-07-2019,Tsuruoka,Japan,Super Hotel Yamagata Tsuruoka,38.7414687,139.8315616
-04-07-2019,Sendai,Japan,Keyaki Guesthouse,38.2628100,140.8663790
-05-07-2019,Sendai,Japan,Keyaki Guesthouse,38.2628100,140.8663790
-06-07-2019,Sendai,Japan,Keyaki Guesthouse,38.2628100,140.8663790
-07-07-2019,Sendai,Japan,Keyaki Guesthouse,38.2628100,140.8663790
-08-07-2019,Sendai,Japan,Keyaki Guesthouse,38.2628100,140.8663790
-09-07-2019,Furano,Japan,Hostel Tomar,43.3471329,142.3880663
-10-07-2019,Furano,Japan,Hostel Tomar,43.3471329,142.3880663
-11-07-2019,Furano,Japan,Hostel Tomar,43.3471329,142.3880663
-12-07-2019,Furano,Japan,Hostel Tomar,43.3471329,142.3880663
-13-07-2019,Asahikawa,Japan,Asahikawa Ride,43.7712887,142.3621590
-14-07-2019,Asahikawa,Japan,Asahikawa Ride,43.7712887,142.3621590
-15-07-2019,Sapporo,Japan,Hotel Relief Sapporo Susukino,43.0508564,141.3554672
-16-07-2019,Sapporo,Japan,Hotel Relief Sapporo Susukino,43.0508564,141.3554672
+2019-06-04,Fukuoka,Japan,Yagura Hostel,33.5917032,130.3792809
+2019-06-05,Fukuoka,Japan,Yagura Hostel,33.5917032,130.3792809
+2019-06-06,Fukuoka,Japan,Yagura Hostel,33.5917032,130.3792809
+2019-06-07,Nagasaki,Japan,Casa Blanca Guesthouse,32.7421682,129.8767380
+2019-06-08,Nagasaki,Japan,Casa Blanca Guesthouse,32.7421682,129.8767380
+2019-06-09,Yufuin,Japan,Yufusan Ryokan,33.2576410,131.3743370
+2019-06-10,Miyoshi,Japan,4S Stay AwaIkeda,34.0278853,133.8054886
+2019-06-11,Miyoshi,Japan,4S Stay AwaIkeda,34.0278853,133.8054886
+2019-06-12,Imabari,Japan,Cyclo No Ie,34.0639950,132.9948720
+2019-06-13,Omishima,Japan,Minshuku Nagisa,34.2640610,133.0364740
+2019-06-14,Onomichi,Japan,Guesthouse Anago-no-Nedoko,34.4091561,133.2021360
+2019-06-15,Kurashiki,Japan,Guesthouse Life Field,34.6048143,133.7616084
+2019-06-16,Kurashiki,Japan,Guesthouse Life Field,34.6048143,133.7616084
+2019-06-17,Kurashiki,Japan,Guesthouse Life Field,34.6048143,133.7616084
+2019-06-18,Kurashiki,Japan,Guesthouse Life Field,34.6048143,133.7616084
+2019-06-19,Takayama,Japan,Cup of Tea,36.138101,137.257032
+2019-06-20,Takayama,Japan,Cup of Tea,36.138101,137.257032
+2019-06-21,Takayama,Japan,Cup of Tea,36.138101,137.257032
+2019-06-22,Morioka,Japan,Unizo Inn Express Morioka,39.7000137,141.1326219
+2019-06-23,Morioka,Japan,Unizo Inn Express Morioka,39.7000137,141.1326219
+2019-06-24,Morioka,Japan,Unizo Inn Express Morioka,39.7000137,141.1326219
+2019-06-25,Miyako,Japan,Guesthouse Minato,39.641775,141.948937
+2019-06-26,Miyako,Japan,Guesthouse Minato,39.641775,141.948937
+2019-06-27,Miyako,Japan,Guesthouse Minato,39.641775,141.948937
+2019-06-28,Tono,Japan,Tono Youth Hostel,39.3583520,141.5617350
+2019-06-29,Tono,Japan,Tono Youth Hostel,39.3583520,141.5617350
+2019-06-30,Tsuruoka,Japan,Super Hotel Yamagata Tsuruoka,38.7414687,139.8315616
+2019-07-01,Tsuruoka,Japan,Super Hotel Yamagata Tsuruoka,38.7414687,139.8315616
+2019-07-02,Tsuruoka,Japan,Super Hotel Yamagata Tsuruoka,38.7414687,139.8315616
+2019-07-03,Tsuruoka,Japan,Super Hotel Yamagata Tsuruoka,38.7414687,139.8315616
+2019-07-04,Sendai,Japan,Keyaki Guesthouse,38.2628100,140.8663790
+2019-07-05,Sendai,Japan,Keyaki Guesthouse,38.2628100,140.8663790
+2019-07-06,Sendai,Japan,Keyaki Guesthouse,38.2628100,140.8663790
+2019-07-07,Sendai,Japan,Keyaki Guesthouse,38.2628100,140.8663790
+2019-07-08,Sendai,Japan,Keyaki Guesthouse,38.2628100,140.8663790
+2019-07-09,Furano,Japan,Hostel Tomar,43.3471329,142.3880663
+2019-07-10,Furano,Japan,Hostel Tomar,43.3471329,142.3880663
+2019-07-11,Furano,Japan,Hostel Tomar,43.3471329,142.3880663
+2019-07-12,Furano,Japan,Hostel Tomar,43.3471329,142.3880663
+2019-07-13,Asahikawa,Japan,Asahikawa Ride,43.7712887,142.3621590
+2019-07-14,Asahikawa,Japan,Asahikawa Ride,43.7712887,142.3621590
+2019-07-15,Sapporo,Japan,Hotel Relief Sapporo Susukino,43.0508564,141.3554672
+2019-07-16,Sapporo,Japan,Hotel Relief Sapporo Susukino,43.0508564,141.3554672
