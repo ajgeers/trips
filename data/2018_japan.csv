@@ -1,9 +1,9 @@
-date,placename,country,accommodation,latitude,longitude
-2018-05-12,Tokyo,Japan,Rainbow Village House 3,35.702101541906956,139.7078490059521
-2018-05-13,Tokyo,Japan,Rainbow Village House 3,35.702101541906956,139.7078490059521
-2018-05-14,Kyoto,Japan,Gion Guesthouse Yururi,35.005110049455794,135.77716095346125
-2018-05-15,Kyoto,Japan,Gion Guesthouse Yururi,35.005110049455794,135.77716095346125
-2018-05-16,Yunomine,Japan,J‑Hoppers Kumano Yunomine Guesthouse,33.82971369858911,135.75821539478775
-2018-05-17,Nachikatsuura,Japan,Oyado Hana,33.628450762995335,135.94103538061373
-2018-05-18,Tokyo,Japan,AirBnB,35.723130924123446,139.77480081794766
-2018-05-19,Tokyo,Japan,AirBnB,35.723130924123446,139.77480081794766
+date,name,placename,country,latitude,longitude,type
+2018-05-12,Rainbow Village House 3,Tokyo,Japan,35.702101541906956,139.7078490059521,accommodation
+2018-05-13,Rainbow Village House 3,Tokyo,Japan,35.702101541906956,139.7078490059521,accommodation
+2018-05-14,Gion Guesthouse Yururi,Kyoto,Japan,35.005110049455794,135.77716095346125,accommodation
+2018-05-15,Gion Guesthouse Yururi,Kyoto,Japan,35.005110049455794,135.77716095346125,accommodation
+2018-05-16,J‑Hoppers Kumano Yunomine Guesthouse,Yunomine,Japan,33.82971369858911,135.75821539478775,accommodation
+2018-05-17,Oyado Hana,Nachikatsuura,Japan,33.628450762995335,135.94103538061373,accommodation
+2018-05-18,AirBnB,Tokyo,Japan,35.723130924123446,139.77480081794766,accommodation
+2018-05-19,AirBnB,Tokyo,Japan,35.723130924123446,139.77480081794766,accommodation

@@ -1,31 +1,31 @@
-date,placename,country,accommodation,latitude,longitude
-2014-11-28,Bangkok,Thailand,Khaosan Baan Thai,13.765681712432103,100.49672056644512
-2014-11-29,Bangkok,Thailand,Khaosan Baan Thai,13.765681712432103,100.49672056644512
-2014-11-30,Bangkok,Thailand,Khaosan Baan Thai,13.765681712432103,100.49672056644512
-2015-12-01,Chiang Mai,Thailand,Banilah,18.804538826843896,98.9795834958858
-2015-12-02,Chiang Mai,Thailand,Banilah,18.804538826843896,98.9795834958858
-2015-12-03,Chiang Mai,Thailand,Banilah,18.804538826843896,98.9795834958858
-2015-12-04,Chiang Mai,Thailand,Banilah,18.804538826843896,98.9795834958858
-2015-12-05,Huay Xai,Laos,Phonetip,20.276869803894098,100.41142994094048
-2015-12-06,Gibbon Experience,Laos,Treehouse,20.44290052882629,100.77429145609615
-2015-12-07,Night bus to Luang Prabang,Laos,,,
-2014-12-08,Luang Prabang,Laos,Liberty Guest House,19.884736032390983,102.1315131349908
-2014-12-09,Luang Prabang,Laos,Liberty Guest House,19.884736032390983,102.1315131349908
-2014-12-10,Luang Prabang,Laos,Liberty Guest House,19.884736032390983,102.1315131349908
-2014-12-11,Luang Prabang,Laos,Liberty Guest House,19.884736032390983,102.1315131349908
-2014-12-12,Hanoi,Vietname,New Vision Hostel,21.03376472278285,105.84867516745034
-2014-12-13,Cat Ba Island,Vietnam,Cat Ba Guesthouse,20.725042832240348,107.05345608293716
-2014-12-14,Cat Ba Island,Vietnam,Cat Ba Guesthouse,20.725042832240348,107.05345608293716
-2014-12-15,Hanoi,Vietnam,New Vision Hostel,21.03376472278285,105.84867516745034
-2014-12-16,Night train to Dong Hoi,Vietnam,,,
-2014-12-17,Phong Nha-Ke Bang National Park,Vietnam,Pepperhouse Homestay,17.612549077652186,106.37183134927577
-2014-12-18,Phong Nha-Ke Bang National Park,Vietnam,Pepperhouse Homestay,17.612549077652186,106.37183134927577
-2014-12-19,Phong Nha-Ke Bang National Park,Vietnam,Pepperhouse Homestay,17.612549077652186,106.37183134927577
-2014-12-20,Hue,Vietnam,HongThien 1 Hotel,16.469134900014144,107.59622102080067
-2014-12-21,Hue,Vietnam,HongThien 1 Hotel,16.469134900014144,107.59622102080067
-2014-12-22,Hoi An,Vietnam,Nhi Trung Hotel,15.881053903424744,108.32637060095186
-2014-12-23,Hoi An,Vietnam,Nhi Trung Hotel,15.881053903424744,108.32637060095186
-2014-12-24,Hoi An,Vietnam,Nhi Trung Hotel,15.881053903424744,108.32637060095186
-2014-12-25,Hoi An,Vietnam,Nhi Trung Hotel,15.881053903424744,108.32637060095186
-2014-12-26,Bangkok,Thailand,Hi-Sukhumvit,13.722373670382183,100.57940163550477
-2014-12-27,Bangkok,Thailand,Hi-Sukhumvit,13.722373670382183,100.57940163550477
+date,name,placename,country,latitude,longitude,type
+2014-11-28,Khaosan Baan Thai,Bangkok,Thailand,13.765681712432103,100.49672056644512,accommodation
+2014-11-29,Khaosan Baan Thai,Bangkok,Thailand,13.765681712432103,100.49672056644512,accommodation
+2014-11-30,Khaosan Baan Thai,Bangkok,Thailand,13.765681712432103,100.49672056644512,accommodation
+2015-12-01,Banilah,Chiang Mai,Thailand,18.804538826843896,98.9795834958858,accommodation
+2015-12-02,Banilah,Chiang Mai,Thailand,18.804538826843896,98.9795834958858,accommodation
+2015-12-03,Banilah,Chiang Mai,Thailand,18.804538826843896,98.9795834958858,accommodation
+2015-12-04,Banilah,Chiang Mai,Thailand,18.804538826843896,98.9795834958858,accommodation
+2015-12-05,Phonetip,Huay Xai,Laos,20.276869803894098,100.41142994094048,accommodation
+2015-12-06,Treehouse,Gibbon Experience,Laos,20.44290052882629,100.77429145609615,accommodation
+2015-12-07,,Night bus to Luang Prabang,Laos,,,accommodation
+2014-12-08,Liberty Guest House,Luang Prabang,Laos,19.884736032390983,102.1315131349908,accommodation
+2014-12-09,Liberty Guest House,Luang Prabang,Laos,19.884736032390983,102.1315131349908,accommodation
+2014-12-10,Liberty Guest House,Luang Prabang,Laos,19.884736032390983,102.1315131349908,accommodation
+2014-12-11,Liberty Guest House,Luang Prabang,Laos,19.884736032390983,102.1315131349908,accommodation
+2014-12-12,New Vision Hostel,Hanoi,Vietname,21.03376472278285,105.84867516745034,accommodation
+2014-12-13,Cat Ba Guesthouse,Cat Ba Island,Vietnam,20.725042832240348,107.05345608293716,accommodation
+2014-12-14,Cat Ba Guesthouse,Cat Ba Island,Vietnam,20.725042832240348,107.05345608293716,accommodation
+2014-12-15,New Vision Hostel,Hanoi,Vietnam,21.03376472278285,105.84867516745034,accommodation
+2014-12-16,,Night train to Dong Hoi,Vietnam,,,accommodation
+2014-12-17,Pepperhouse Homestay,Phong Nha-Ke Bang National Park,Vietnam,17.612549077652186,106.37183134927577,accommodation
+2014-12-18,Pepperhouse Homestay,Phong Nha-Ke Bang National Park,Vietnam,17.612549077652186,106.37183134927577,accommodation
+2014-12-19,Pepperhouse Homestay,Phong Nha-Ke Bang National Park,Vietnam,17.612549077652186,106.37183134927577,accommodation
+2014-12-20,HongThien 1 Hotel,Hue,Vietnam,16.469134900014144,107.59622102080067,accommodation
+2014-12-21,HongThien 1 Hotel,Hue,Vietnam,16.469134900014144,107.59622102080067,accommodation
+2014-12-22,Nhi Trung Hotel,Hoi An,Vietnam,15.881053903424744,108.32637060095186,accommodation
+2014-12-23,Nhi Trung Hotel,Hoi An,Vietnam,15.881053903424744,108.32637060095186,accommodation
+2014-12-24,Nhi Trung Hotel,Hoi An,Vietnam,15.881053903424744,108.32637060095186,accommodation
+2014-12-25,Nhi Trung Hotel,Hoi An,Vietnam,15.881053903424744,108.32637060095186,accommodation
+2014-12-26,Hi-Sukhumvit,Bangkok,Thailand,13.722373670382183,100.57940163550477,accommodation
+2014-12-27,Hi-Sukhumvit,Bangkok,Thailand,13.722373670382183,100.57940163550477,accommodation

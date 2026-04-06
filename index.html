@@ -27,6 +27,8 @@
 
         <div style="position: absolute; top: 10px; right: 10px; z-index: 1000;">
             <select id="trip-selector" style="padding: 5px; border-radius: 5px; border: 1px solid #ccc;">
+                <option value="2003_austria_germany.csv">Austria / Germany 2003</option>
+                <option value="2003_tunisia.csv">Tunisia 2003</option>
                 <option value="2011_germany.csv">Germany 2011</option>
                 <option value="2014_southeast_asia.csv">Southeast Asia 2014</option>
                 <option value="2016_jordan.csv">Jordan 2016</option>
@@ -43,15 +45,15 @@
         </div>
 
         <div id='map'></div>
-        <script>
-            // Load the default trip on page load
+
+        <script type="module">
+            import './js/map.js';
+
             document.addEventListener('DOMContentLoaded', function() {
                 const defaultTrip = document.getElementById('trip-selector').value;
-                loadTripData('./data/' + defaultTrip);
+                window.loadTripData('./data/' + defaultTrip);
             });
         </script>
-        <script src='curves.js'></script>
-        <script src='map.js'></script>
 
     </body>
 </html>

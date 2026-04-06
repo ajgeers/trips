@@ -1,20 +1,20 @@
-date,placename,country,accommodation,latitude,longitude
-2020-09-04,Porto,Portugal,Oporto House,41.14668,-8.61353
-2020-09-05,Porto,Portugal,Oporto House,41.14668,-8.61353
-2020-09-06,Porto,Portugal,Oporto House,41.14668,-8.61353
-2020-09-07,Castro Laboreiro,Portugal,Hotel Castrum Villae,42.0306918480739,-8.159778659535563
-2020-09-08,Castro Laboreiro,Portugal,Hotel Castrum Villae,42.0306918480739,-8.159778659535563
-2020-09-09,Vila do Gerês,Portugal,Casa do Pedrógo,41.73493696364092,-8.16161069750597
-2020-09-10,Vila do Gerês,Portugal,Casa do Pedrógo,41.73493696364092,-8.16161069750597
-2020-09-11,Pinhao,Portugal,Casa da Calçada,41.1985634121966,-7.536972475409576
-2020-09-12,Pinhao,Portugal,Casa da Calçada,41.1985634121966,-7.536972475409576
-2020-09-13,Porto Covo,Portugal,Calmaria Guesthouse,37.8532415717442,-8.78832404252716
-2020-09-14,Vila Nova de Milfontes,Portugal,Raminhos Guesthouse,37.72883597185936,-8.780336041269033
-2020-09-15,Almograve,Portugal,Al Casa das Andorinhas,37.65168931599789,-8.792782164550902
-2020-09-16,Zambujeira do Mar,Portugal,Hostel Nature,37.52497349660464,-8.78582413803567
-2020-09-17,Odeceixe,Portugal,Casa Morais,37.43254833463843,-8.770478125200826
-2020-09-18,Lagos,Portugal,Casa A Sul,37.10046744532014,-8.675329881454097
-2020-09-19,Vila Nova de Milfontes,Portugal,Milfontes Apartment Rentals,37.7303018005341,-8.777698697285077
-2020-09-20,Vila Nova de Milfontes,Portugal,Milfontes Apartment Rentals,37.7303018005341,-8.777698697285077
-2020-09-21,Vila Nova de Milfontes,Portugal,Milfontes Apartment Rentals,37.7303018005341,-8.777698697285077
-2020-09-22,Porto,Portugal,OPORTO House AL,41.23827862335596,-8.664603878245169
+date,name,placename,country,latitude,longitude,type
+2020-09-04,Oporto House,Porto,Portugal,41.14668,-8.61353,accommodation
+2020-09-05,Oporto House,Porto,Portugal,41.14668,-8.61353,accommodation
+2020-09-06,Oporto House,Porto,Portugal,41.14668,-8.61353,accommodation
+2020-09-07,Hotel Castrum Villae,Castro Laboreiro,Portugal,42.0306918480739,-8.159778659535563,accommodation
+2020-09-08,Hotel Castrum Villae,Castro Laboreiro,Portugal,42.0306918480739,-8.159778659535563,accommodation
+2020-09-09,Casa do Pedrógo,Vila do Gerês,Portugal,41.73493696364092,-8.16161069750597,accommodation
+2020-09-10,Casa do Pedrógo,Vila do Gerês,Portugal,41.73493696364092,-8.16161069750597,accommodation
+2020-09-11,Casa da Calçada,Pinhao,Portugal,41.1985634121966,-7.536972475409576,accommodation
+2020-09-12,Casa da Calçada,Pinhao,Portugal,41.1985634121966,-7.536972475409576,accommodation
+2020-09-13,Calmaria Guesthouse,Porto Covo,Portugal,37.8532415717442,-8.78832404252716,accommodation
+2020-09-14,Raminhos Guesthouse,Vila Nova de Milfontes,Portugal,37.72883597185936,-8.780336041269033,accommodation
+2020-09-15,Al Casa das Andorinhas,Almograve,Portugal,37.65168931599789,-8.792782164550902,accommodation
+2020-09-16,Hostel Nature,Zambujeira do Mar,Portugal,37.52497349660464,-8.78582413803567,accommodation
+2020-09-17,Casa Morais,Odeceixe,Portugal,37.43254833463843,-8.770478125200826,accommodation
+2020-09-18,Casa A Sul,Lagos,Portugal,37.10046744532014,-8.675329881454097,accommodation
+2020-09-19,Milfontes Apartment Rentals,Vila Nova de Milfontes,Portugal,37.7303018005341,-8.777698697285077,accommodation
+2020-09-20,Milfontes Apartment Rentals,Vila Nova de Milfontes,Portugal,37.7303018005341,-8.777698697285077,accommodation
+2020-09-21,Milfontes Apartment Rentals,Vila Nova de Milfontes,Portugal,37.7303018005341,-8.777698697285077,accommodation
+2020-09-22,OPORTO House AL,Porto,Portugal,41.23827862335596,-8.664603878245169,accommodation

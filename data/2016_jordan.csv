@@ -1,8 +1,8 @@
-date,placename,country,accommodation,latitude,longitude
-2016-04-16,Madaba,Jordan,Moab Land Hotel,31.717635962553345,35.793712451675454
-2016-04-17,Dana,Jordan,Feynan Ecolodge,30.61522140298003,35.44145818983463
-2016-04-18,Petra,Jordan,Rocky Mountain Hotel,30.32161007670539,35.48318344379856
-2016-04-19,Petra,Jordan,Rocky Mountain Hotel,30.32161007670539,35.48318344379856
-2016-04-20,Wadi Rum,Jordan,Rum Stars Camp,29.504822299542003,35.46949540484463
-2016-04-21,Aqaba,Jordan,Al Qidra Hotel & Suites,29.531749127528297,35.003393415058895
-2016-04-22,Amman,Jordan,Jordan Tower Hotel,31.95178613675753,35.937461543806464
+date,name,placename,country,latitude,longitude,type
+2016-04-16,Moab Land Hotel,Madaba,Jordan,31.717635962553345,35.793712451675454,accommodation
+2016-04-17,Feynan Ecolodge,Dana,Jordan,30.61522140298003,35.44145818983463,accommodation
+2016-04-18,Rocky Mountain Hotel,Petra,Jordan,30.32161007670539,35.48318344379856,accommodation
+2016-04-19,Rocky Mountain Hotel,Petra,Jordan,30.32161007670539,35.48318344379856,accommodation
+2016-04-20,Rum Stars Camp,Wadi Rum,Jordan,29.504822299542003,35.46949540484463,accommodation
+2016-04-21,Al Qidra Hotel & Suites,Aqaba,Jordan,29.531749127528297,35.003393415058895,accommodation
+2016-04-22,Jordan Tower Hotel,Amman,Jordan,31.95178613675753,35.937461543806464,accommodation

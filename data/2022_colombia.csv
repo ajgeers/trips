@@ -1,24 +1,24 @@
-date,placename,country,accommodation,latitude,longitude
-2022-06-09,Bogotá,Colombia,Nico Apartasuites,4.650331053139577,-74.05551393421592
-2022-06-10,Bogotá,Colombia,Nico Apartasuites,4.650331053139577,-74.05551393421592
-2022-06-11,Bogotá,Colombia,Nico Apartasuites,4.650331053139577,-74.05551393421592
-2022-06-12,Villa de Leyva,Colombia,Casa de las Materas,5.63016802783499,-73.52207552212175
-2022-06-13,Villa de Leyva,Colombia,Casa de las Materas,5.63016802783499,-73.52207552212175
-2022-06-14,Villa de Leyva,Colombia,Casa de las Materas,5.63016802783499,-73.52207552212175
-2022-06-15,Barichara,Colombia,Casa Bari El Jardin,6.637481851089367,-73.22384201707126
-2022-06-16,Barichara,Colombia,Casa Bari El Jardin,6.637481851089367,-73.22384201707126
-2022-06-17,Barichara,Colombia,Casa Bari El Jardin,6.637481851089367,-73.22384201707126
-2022-06-18,Jordan,Colombia,Tamarindo Ecolodge,6.723434083146524,-73.10851267389987
-2022-06-19,Jordan,Colombia,Tamarindo Ecolodge,6.723434083146524,-73.10851267389987
-2022-06-20,Salento,Colombia,Ecoresort Gran Azul,4.636883964672661,-75.56304169977797
-2022-06-21,Salento,Colombia,Ecoresort Gran Azul,4.636883964672661,-75.56304169977797
-2022-06-22,Salento,Colombia,Ecoresort Gran Azul,4.636883964672661,-75.56304169977797
-2022-06-23,Salento,Colombia,Ecoresort Gran Azul,4.636883964672661,-75.56304169977797
-2022-06-24,Jardín,Colombia,Cabañas Filo de Oro,5.591084598556213,-75.82039663740586
-2022-06-25,Jardín,Colombia,Cabañas Filo de Oro,5.591084598556213,-75.82039663740586
-2022-06-26,Medellín,Colombia,Friend's house,6.224054903036501,-75.57457054870915
-2022-06-27,Medellín,Colombia,Friend's house,6.224054903036501,-75.57457054870915
-2022-06-28,Medellín,Colombia,Friend's house,6.224054903036501,-75.57457054870915
-2022-06-29,Medellín,Colombia,Friend's house,6.224054903036501,-75.57457054870915
-2022-06-30,Medellín,Colombia,Friend's house,6.224054903036501,-75.57457054870915
-2022-07-01,Medellín,Colombia,Friend's house,6.224054903036501,-75.57457054870915
+date,name,placename,country,latitude,longitude,type
+2022-06-09,Nico Apartasuites,Bogotá,Colombia,4.650331053139577,-74.05551393421592,accommodation
+2022-06-10,Nico Apartasuites,Bogotá,Colombia,4.650331053139577,-74.05551393421592,accommodation
+2022-06-11,Nico Apartasuites,Bogotá,Colombia,4.650331053139577,-74.05551393421592,accommodation
+2022-06-12,Casa de las Materas,Villa de Leyva,Colombia,5.63016802783499,-73.52207552212175,accommodation
+2022-06-13,Casa de las Materas,Villa de Leyva,Colombia,5.63016802783499,-73.52207552212175,accommodation
+2022-06-14,Casa de las Materas,Villa de Leyva,Colombia,5.63016802783499,-73.52207552212175,accommodation
+2022-06-15,Casa Bari El Jardin,Barichara,Colombia,6.637481851089367,-73.22384201707126,accommodation
+2022-06-16,Casa Bari El Jardin,Barichara,Colombia,6.637481851089367,-73.22384201707126,accommodation
+2022-06-17,Casa Bari El Jardin,Barichara,Colombia,6.637481851089367,-73.22384201707126,accommodation
+2022-06-18,Tamarindo Ecolodge,Jordan,Colombia,6.723434083146524,-73.10851267389987,accommodation
+2022-06-19,Tamarindo Ecolodge,Jordan,Colombia,6.723434083146524,-73.10851267389987,accommodation
+2022-06-20,Ecoresort Gran Azul,Salento,Colombia,4.636883964672661,-75.56304169977797,accommodation
+2022-06-21,Ecoresort Gran Azul,Salento,Colombia,4.636883964672661,-75.56304169977797,accommodation
+2022-06-22,Ecoresort Gran Azul,Salento,Colombia,4.636883964672661,-75.56304169977797,accommodation
+2022-06-23,Ecoresort Gran Azul,Salento,Colombia,4.636883964672661,-75.56304169977797,accommodation
+2022-06-24,Cabañas Filo de Oro,Jardín,Colombia,5.591084598556213,-75.82039663740586,accommodation
+2022-06-25,Cabañas Filo de Oro,Jardín,Colombia,5.591084598556213,-75.82039663740586,accommodation
+2022-06-26,Friend's house,Medellín,Colombia,6.224054903036501,-75.57457054870915,accommodation
+2022-06-27,Friend's house,Medellín,Colombia,6.224054903036501,-75.57457054870915,accommodation
+2022-06-28,Friend's house,Medellín,Colombia,6.224054903036501,-75.57457054870915,accommodation
+2022-06-29,Friend's house,Medellín,Colombia,6.224054903036501,-75.57457054870915,accommodation
+2022-06-30,Friend's house,Medellín,Colombia,6.224054903036501,-75.57457054870915,accommodation
+2022-07-01,Friend's house,Medellín,Colombia,6.224054903036501,-75.57457054870915,accommodation

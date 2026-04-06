@@ -1,23 +1,23 @@
-date,placename,country,accommodation,latitude,longitude
-2024-11-08,Osaka,Japan,R Hotel Honmachi,34.67809140017919,135.50822477030334
-2024-11-09,Osaka,Japan,R Hotel Honmachi,34.67809140017919,135.50822477030334
-2024-11-10,Osaka,Japan,R Hotel Honmachi,34.67809140017919,135.50822477030334
-2024-11-11,Miyoshi,Japan,4S STAY Awaikeda Ekimae,34.0278853,133.8054886
-2024-11-12,Miyoshi,Japan,4S STAY Awaikeda Ekimae,34.0278853,133.8054886
-2024-11-13,Miyoshi,Japan,4S STAY Awaikeda Ekimae,34.0278853,133.8054886
-2024-11-14,Miyoshi,Japan,4S STAY Awaikeda Ekimae,34.0278853,133.8054886
-2024-11-15,Naoshima,Japan,Yado Seven Beach,34.459826844661784,133.97491756649904
-2024-11-16,Naoshima,Japan,Yado Seven Beach,34.459826844661784,133.97491756649904
-2024-11-17,Onomichi,Japan,Guesthouse Anago-no-Nedoko,34.4091561,133.2021360
-2024-11-18,Omishima,Japan,Miyaura Goten,34.248866133287635,133.00960765818309
-2024-11-19,Omishima,Japan,Miyaura Goten,34.248866133287635,133.00960765818309
-2024-11-20,Fukuyama,Japan,Daiwa Roynet Hotel,34.488484232750245,133.3616703477126
-2024-11-21,Yakushima,Japan,Minshuku Nodoka,30.432091647170342,130.5692847288322
-2024-11-22,Yakushima,Japan,Minshuku Nodoka,30.432091647170342,130.5692847288322
-2024-11-23,Yakushima,Japan,Minshuku Nodoka,30.432091647170342,130.5692847288322
-2024-11-24,Yakushima,Japan,Minshuku Nodoka,30.432091647170342,130.5692847288322
-2024-11-25,Aso,Japan,Asobi Gokoro,32.93551581390434,131.0654791489842
-2024-11-26,Aso,Japan,Asobi Gokoro,32.93551581390434,131.0654791489842
-2024-11-27,Aso,Japan,Asobi Gokoro,32.93551581390434,131.0654791489842
-2024-11-28,Fukuoka,Japan,APA Hotel Fukuoka Tenjin Nishi,33.587474120158554,130.39174158035485
-2024-11-29,Fukuoka,Japan,APA Hotel Fukuoka Tenjin Nishi,33.587474120158554,130.39174158035485
+date,name,placename,country,latitude,longitude,type
+2024-11-08,R Hotel Honmachi,Osaka,Japan,34.67809140017919,135.50822477030334,accommodation
+2024-11-09,R Hotel Honmachi,Osaka,Japan,34.67809140017919,135.50822477030334,accommodation
+2024-11-10,R Hotel Honmachi,Osaka,Japan,34.67809140017919,135.50822477030334,accommodation
+2024-11-11,4S STAY Awaikeda Ekimae,Miyoshi,Japan,34.0278853,133.8054886,accommodation
+2024-11-12,4S STAY Awaikeda Ekimae,Miyoshi,Japan,34.0278853,133.8054886,accommodation
+2024-11-13,4S STAY Awaikeda Ekimae,Miyoshi,Japan,34.0278853,133.8054886,accommodation
+2024-11-14,4S STAY Awaikeda Ekimae,Miyoshi,Japan,34.0278853,133.8054886,accommodation
+2024-11-15,Yado Seven Beach,Naoshima,Japan,34.459826844661784,133.97491756649904,accommodation
+2024-11-16,Yado Seven Beach,Naoshima,Japan,34.459826844661784,133.97491756649904,accommodation
+2024-11-17,Guesthouse Anago-no-Nedoko,Onomichi,Japan,34.4091561,133.2021360,accommodation
+2024-11-18,Miyaura Goten,Omishima,Japan,34.248866133287635,133.00960765818309,accommodation
+2024-11-19,Miyaura Goten,Omishima,Japan,34.248866133287635,133.00960765818309,accommodation
+2024-11-20,Daiwa Roynet Hotel,Fukuyama,Japan,34.488484232750245,133.3616703477126,accommodation
+2024-11-21,Minshuku Nodoka,Yakushima,Japan,30.432091647170342,130.5692847288322,accommodation
+2024-11-22,Minshuku Nodoka,Yakushima,Japan,30.432091647170342,130.5692847288322,accommodation
+2024-11-23,Minshuku Nodoka,Yakushima,Japan,30.432091647170342,130.5692847288322,accommodation
+2024-11-24,Minshuku Nodoka,Yakushima,Japan,30.432091647170342,130.5692847288322,accommodation
+2024-11-25,Asobi Gokoro,Aso,Japan,32.93551581390434,131.0654791489842,accommodation
+2024-11-26,Asobi Gokoro,Aso,Japan,32.93551581390434,131.0654791489842,accommodation
+2024-11-27,Asobi Gokoro,Aso,Japan,32.93551581390434,131.0654791489842,accommodation
+2024-11-28,APA Hotel Fukuoka Tenjin Nishi,Fukuoka,Japan,33.587474120158554,130.39174158035485,accommodation
+2024-11-29,APA Hotel Fukuoka Tenjin Nishi,Fukuoka,Japan,33.587474120158554,130.39174158035485,accommodation
