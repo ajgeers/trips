@@ -1,39 +1,41 @@
 date,name,placename,country,latitude,longitude,type
 2003-04-26,Monastir Airport,Monastir,Tunisia,35.7581,10.7547,airport
-2003-04-26,Mausoleum of Habib Bourguiba,Monastir,Tunisia,35.7778,10.8267,sight
-2003-04-26,Ribat,Monastir,Tunisia,35.7778,10.8306,sight
-2003-04-26,Port El Kantaoui,Port El Kantaoui,Tunisia,35.8964,10.5947,sight
+2003-04-26,Mausoleum of Habib Bourguiba,Monastir,Tunisia,35.77782882426301,10.828384391521112,sight
+2003-04-26,Ribat,Monastir,Tunisia,35.77607677442422,10.833004243713805,sight
+2003-04-26,Port El Kantaoui,Port El Kantaoui,Tunisia,35.89019327477515,10.59494859496545,sight
 2003-04-26,Hotel Abou Nawas Nejma,Sousse,Tunisia,35.837336936437545,10.634774903678101,accommodation
-2003-04-27,Enfida Weekly Market,Enfida,Tunisia,36.1319,10.3725,sight
-2003-04-27,Bardo Museum,Tunis,Tunisia,36.8092,10.1344,sight
+2003-04-27,Enfida Weekly Market,Enfida,Tunisia,36.134083589993814,10.378003890442123,sight
+2003-04-27,Bardo Museum,Tunis,Tunisia,36.80938044172632,10.13420909766391,sight
 2003-04-27,La Goulette,La Goulette,Tunisia,36.8181,10.3056,restaurant
-2003-04-27,Baths of Antonius Pius,Carthage,Tunisia,36.8528,10.3233,sight
-2003-04-27,Oceanographic Museum,Salammbô,Tunisia,36.8444,10.3236,sight
-2003-04-27,Café Sidi Chabbane,Sidi Bou Said,Tunisia,36.8686,10.3411,sight
+2003-04-27,Baths of Antonius Pius,Carthage,Tunisia,36.8542345704912,10.33497408753404,sight
+2003-04-27,Sidi Bou Said,Sidi Bou Said,Tunisia,36.87066733773874,10.350760589390903,sight
 2003-04-27,Hotel Les Ambassadeurs,Tunis,Tunisia,36.81741260599049,10.17672260462575,accommodation
-2003-04-28,Souks,Tunis,Tunisia,36.7970,10.1719,sight
-2003-04-28,Aghlabid Pools,Kairouan,Tunisia,35.6789,10.0978,sight
-2003-04-28,Great Mosque of Kairouan,Kairouan,Tunisia,35.6814,10.1039,sight
-2003-04-28,Mosque of Sidi Sahib,Kairouan,Tunisia,35.6703,10.0992,sight
+2003-04-28,Souks,Tunis,Tunisia,36.797824727155536,10.172257554026281,sight
+2003-04-28,Clock Tower,Tunis,Tunisia,36.800245643165766,10.186469209181736,sight
+2003-04-28,Aghlabid Pools,Kairouan,Tunisia,35.687117307519024,10.095441172291281,sight
+2003-04-28,Great Mosque of Kairouan,Kairouan,Tunisia,35.68107509034681,10.104233867760358,sight
+2003-04-28,Zaouia of Sidi Sahib,Kairouan,Tunisia,35.68247109442311,10.090657706959089,sight
 2003-04-28,Hotel La Kasbah,Kairouan,Tunisia,35.68009714344892,10.099342667213941,accommodation
-2003-04-29,Roman Ruins of Sufetula,Sbeitla,Tunisia,35.2361,9.1172,sight
-2003-04-29,Dar Cherait Museum,Tozeur,Tunisia,33.9197,8.1336,sight
-2003-04-29,Tozeur Oasis,Tozeur,Tunisia,33.9194,8.1281,sight
+2003-04-29,Roman Ruins of Sufetula,Sbeitla,Tunisia,35.24162227521838,9.118124683480282,sight
+2003-04-29,Dar Cherait Museum,Tozeur,Tunisia,33.9131713767923,8.120630855267175,sight
+2003-04-29,Oasis,Tozeur,Tunisia,33.91715438240096,8.146829759796434,sight
 2003-04-29,Hotel Ras El Ain,Tozeur,Tunisia,33.912988422731374,8.117497476001208,accommodation
-2003-04-30,Chebika,Chebika,Tunisia,34.3169,7.9353,sight
-2003-04-30,Tamerza Waterfall,Tamerza,Tunisia,34.4017,7.9306,sight
-2003-04-30,Mides,Mides,Tunisia,34.3722,7.8983,sight
-2003-04-30,Chott El Djerid,Chott El Djerid,Tunisia,33.9167,8.4333,sight
-2003-04-30,Kebili,Kebili,Tunisia,33.7067,8.9694,sight
-2003-04-30,Sahara Dromedary Ride,Douz,Tunisia,33.4639,9.0203,sight
+2003-04-30,Chebika,Chebika,Tunisia,34.32159257620484,7.9389287391742505,sight
+2003-04-30,Tamerza Waterfall,Tamerza,Tunisia,34.38180292953629,7.932951255106709,sight
+2003-04-30,Mides Canyon,Mides,Tunisia,34.407090894095234,7.917048109399686,sight
+2003-04-30,Chott El Djerid,Chott El Djerid,Tunisia,33.950055456030334,8.420166428634275,sight
+2003-04-30,Kebili,Kebili,Tunisia,33.70627337933767,8.96977242781227,sight
+2003-04-30,Sahara Dromedary Ride,Douz,Tunisia,33.43125910891603,9.03174663604116,sight
 2003-04-30,Hotel Mahari,Douz,Tunisia,33.4343519001609,9.020406289852078,accommodation
-2003-05-01,Fatma's Cave Dwelling,Matmata,Tunisia,33.5444,9.9667,sight
-2003-05-01,Qsar,Matmata,Tunisia,33.5344,9.9567,sight
-2003-05-01,Pottery Workshop,Guellala,Tunisia,33.7972,10.8636,sight
-2003-05-01,El Ghriba Synagogue,Djerba,Tunisia,33.8208,10.8556,sight
-2003-05-01,Houmt Souk,Houmt Souk,Tunisia,33.8756,10.8575,sight
+2003-05-01,Welcome sign,Matmata,Tunisia,33.55276677469655,9.971052665231351,sight
+2003-05-01,Fatma's Cave Dwelling,Matmata,Tunisia,33.58274981434223,9.979740138306331,sight
+2003-05-01,Ksar Hadada,Matmata,Tunisia,33.10011751149513,10.313559072808534,sight
+2003-05-01,Pottery Workshop,Guellala,Tunisia,33.72848577389913,10.856320120746329,sight
+2003-05-01,El Ghriba Synagogue,Djerba,Tunisia,33.81401270588067,10.859290384590023,sight
+2003-05-01,Houmt Souk,Houmt Souk,Tunisia,33.87604272496124,10.857195607259039,sight
 2003-05-01,Hotel Haroun,Djerba,Tunisia,33.85217367210993,10.985888514099411,accommodation
-2003-05-02,Henna Market,Gabes,Tunisia,33.8815,10.0982,sight
-2003-05-02,Restaurant Donia,Sfax,Tunisia,34.7406,10.7603,restaurant
-2003-05-02,El Djem Amphitheater,El Djem,Tunisia,35.2964,10.7069,sight
+2003-05-02,Henna Market,Gabes,Tunisia,33.888844635950676,10.094813297073928,sight
+2003-05-02,Art installations,Mahres,Tunisia,34.522724198522184,10.501263146896537,sight
+2003-05-02,Restaurant Donia,Sfax,Tunisia,34.730952755766914,10.763163909576837,restaurant
+2003-05-02,El Jem Amphitheater,El Jem,Tunisia,35.296418007801066,10.706974273829948,sight
 2003-05-02,Hotel Abou Nawas Nejma,Sousse,Tunisia,35.837336936437545,10.634774903678101,accommodation
