@@ -3,7 +3,8 @@ import { MARKER_COLORS } from './config.js';
 function formatDateRange(dates) {
     if (!dates || dates.length === 0) return '';
 
-    const sortedDates = dates.map(d => new Date(d)).sort((a, b) => a - b);
+    const uniqueDates = [...new Set(dates)];
+    const sortedDates = uniqueDates.map(d => new Date(d)).sort((a, b) => a - b);
     const ranges = [];
     let rangeStart = sortedDates[0];
     let rangeEnd = sortedDates[0];

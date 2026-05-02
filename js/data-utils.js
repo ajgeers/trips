@@ -62,3 +62,10 @@ export function processDataToGeoJSON(data) {
         features: pointsGeojsonFeatures
     };
 }
+
+export function splitFeaturesByAccommodation(geojson) {
+    return {
+        accommodation: geojson.features.filter(f => f.properties.type === 'accommodation'),
+        other: geojson.features.filter(f => f.properties.type !== 'accommodation')
+    };
+}

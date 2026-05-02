@@ -19,6 +19,13 @@ export const POLYLINE_OPTIONS = {
     weight: 1
 };
 
+export const ARROW_DECORATOR_CONFIG = {
+    offset: 75,
+    repeat: 150,
+    pixelSize: 8,
+    color: 'black'
+};
+
 export const MARKER_COLORS = {
     accommodation: '#D9534F',
     other: '#FFA94D'
