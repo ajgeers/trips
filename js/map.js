@@ -7,7 +7,7 @@ let map = L.map('map', MAP_CONFIG);
 L.tileLayer(TILE_LAYER_CONFIG.url, TILE_LAYER_CONFIG.options).addTo(map);
 
 const tripSelector = document.getElementById('trip-selector');
-const accommodationOnlyCheckbox = document.getElementById('accommodation-only');
+const showSightsCheckbox = document.getElementById('show-sights');
 let currentData = [];
 let polylineLayer;
 let decoratorLayer;
@@ -19,7 +19,7 @@ tripSelector.addEventListener('change', function() {
     loadTripData(`./data/${selectedTrip}`);
 });
 
-accommodationOnlyCheckbox.addEventListener('change', function() {
+showSightsCheckbox.addEventListener('change', function() {
     renderMap();
 });
 
@@ -79,9 +79,9 @@ function fitMapBounds(geojson) {
 function renderMap() {
     clearMapLayers();
 
-    const dataToShow = accommodationOnlyCheckbox.checked
-        ? currentData.filter(d => d.type === 'accommodation')
-        : currentData;
+    const dataToShow = showSightsCheckbox.checked
+        ? currentData
+        : currentData.filter(d => d.type === 'accommodation');
 
     drawPolyline(dataToShow);
 
@@ -94,10 +94,10 @@ function loadTripData(url) {
     d3.csv(url, filterCSV).then(function(data) {
         currentData = data;
 
-        const hasNonAccommodation = data.some(d => d.type !== 'accommodation');
-        accommodationOnlyCheckbox.disabled = !hasNonAccommodation;
-        if (!hasNonAccommodation) {
-            accommodationOnlyCheckbox.checked = true;
+        const hasSights = data.some(d => d.type !== 'accommodation');
+        showSightsCheckbox.disabled = !hasSights;
+        if (!hasSights) {
+            showSightsCheckbox.checked = false;
         }
 
         renderMap();
