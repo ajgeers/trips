@@ -1,12 +1,11 @@
 date,name,placename,country,latitude,longitude,type
-2003-04-26,Monastir Airport,Monastir,Tunisia,35.7581,10.7547,airport
+2003-04-26,Monastir Airport,Monastir,Tunisia,35.7581,10.7547,transport
 2003-04-26,Mausoleum of Habib Bourguiba,Monastir,Tunisia,35.77782882426301,10.828384391521112,sight
 2003-04-26,Ribat,Monastir,Tunisia,35.77607677442422,10.833004243713805,sight
 2003-04-26,Port El Kantaoui,Port El Kantaoui,Tunisia,35.89019327477515,10.59494859496545,sight
 2003-04-26,Hotel Abou Nawas Nejma,Sousse,Tunisia,35.837336936437545,10.634774903678101,accommodation
 2003-04-27,Enfida Weekly Market,Enfida,Tunisia,36.134083589993814,10.378003890442123,sight
 2003-04-27,Bardo Museum,Tunis,Tunisia,36.80938044172632,10.13420909766391,sight
-2003-04-27,La Goulette,La Goulette,Tunisia,36.8181,10.3056,restaurant
 2003-04-27,Baths of Antonius Pius,Carthage,Tunisia,36.8542345704912,10.33497408753404,sight
 2003-04-27,Sidi Bou Said,Sidi Bou Said,Tunisia,36.87066733773874,10.350760589390903,sight
 2003-04-27,Hotel Les Ambassadeurs,Tunis,Tunisia,36.81741260599049,10.17672260462575,accommodation
@@ -36,7 +35,6 @@ date,name,placename,country,latitude,longitude,type
 2003-05-01,Hotel Haroun,Djerba,Tunisia,33.85217367210993,10.985888514099411,accommodation
 2003-05-02,Henna Market,Gabes,Tunisia,33.888844635950676,10.094813297073928,sight
 2003-05-02,Art installations,Mahres,Tunisia,34.522724198522184,10.501263146896537,sight
-2003-05-02,Restaurant Donia,Sfax,Tunisia,34.730952755766914,10.763163909576837,restaurant
 2003-05-02,El Jem Amphitheater,El Jem,Tunisia,35.296418007801066,10.706974273829948,sight
 2003-05-02,Hotel Abou Nawas Nejma,Sousse,Tunisia,35.837336936437545,10.634774903678101,accommodation
-2003-05-03,Monastir Airport,Monastir,Tunisia,35.7581,10.7547,airport
+2003-05-03,Monastir Airport,Monastir,Tunisia,35.7581,10.7547,transport
